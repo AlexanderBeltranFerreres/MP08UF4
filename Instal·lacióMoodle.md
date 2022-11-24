@@ -91,5 +91,6 @@ FLUSH PRIVILEGES;
 
 
 
-
+Si ho hem fet tot bé ens hauria de sortir així quan fiquem la ip/moodle al buscador.
+![](comp.png)
 
