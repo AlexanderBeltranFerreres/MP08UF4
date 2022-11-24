@@ -22,6 +22,9 @@ sudo apt-get install mariadb-server
 ```
 ![](MariaDB.png)
 
+Quan s'ens hagui instal·lat hem de configurar MariaDB.
+
+![](config.png)
 
 Ara el descomprimim al directori /var/www/html per fer-lo accessible via web.
 
