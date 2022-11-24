@@ -26,11 +26,19 @@ Quan s'ens hagui instal·lat hem de configurar MariaDB.
 
 ![](config.png)
 
-Finalment ens intal·lem una versio de PHP compatible amb el moodle.
+Finalment ens instal·lem una versio de PHP compatible amb el moodle.
 ```sh
 sudo aptitude install php7.3 php7.3-mysql php7.3-intl php7.3-curl php7.3-xml php7.3-gd
 ```
 ![](php.png)
+
+Hem de canviar el fixer dir.conf per donar prioritat al php amb la comanda:
+```sh
+sudo nano /etc/apache2/mods-enabled/dir.conf
+```
+Ha de quedar així.
+
+![](dir.conf.png)
 
 Ara el descomprimim el .zip del moodle que ens hem intal·lar al principi. L'hem d'extrèure al directori /var/www/html per fer-lo accessible via web.
 
