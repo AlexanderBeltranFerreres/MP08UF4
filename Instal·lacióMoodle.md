@@ -46,3 +46,16 @@ Ara el descomprimim el .zip del moodle que ens hem intal·lar al principi. L'hem
 sudo unzip moodle-4.0.5.zip -d /var/www/html/
 ```
 ![](unzip.png)
+
+
+Hem de canviar les propietat per a que pugui ser escrit pel servidor web.
+```sh
+sudo chown www-data:www-data /var/www/html/moodle
+```
+
+Ara hem de crear un directori de fitxers per a que moodle pugui guardar els seus fitxers, el nom que li he ficat al directori és moodle_data.
+
+![](..-..png)
+
+
+
