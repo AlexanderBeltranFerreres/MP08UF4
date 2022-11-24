@@ -26,9 +26,15 @@ Quan s'ens hagui instal·lat hem de configurar MariaDB.
 
 ![](config.png)
 
-Ara el descomprimim al directori /var/www/html per fer-lo accessible via web.
+Finalment ens intal·lem una versio de PHP compatible amb el moodle.
+```sh
+sudo aptitude install php7.3 php7.3-mysql php7.3-intl php7.3-curl php7.3-xml php7.3-gd
+```
+![](php.png)
+
+Ara el descomprimim el .zip del moodle que ens hem intal·lar al principi. L'hem d'extrèure al directori /var/www/html per fer-lo accessible via web.
 
 ```sh
-sudo unzip moodle-latest-38.zip -d /var/www/html/
+sudo unzip moodle-4.0.5.zip -d /var/www/html/
 ```
-
+![](unzip.png)
