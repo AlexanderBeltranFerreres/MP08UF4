@@ -82,6 +82,14 @@ CREATE DATABASE moodle;
 ![](newDB.png)
 
 
+Finalment donem permisos amb:
+```sh
+GRANT ALL PRIVILEGES ON moodle.* TO 'ubuntumoodle'@'192.168.203.227';
+FLUSH PRIVILEGES;
+```
+![](flush.png)
+
+
 
 
 
