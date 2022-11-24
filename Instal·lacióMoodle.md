@@ -16,6 +16,12 @@ sudo apt-get install apache2
 ```
 ![](apache2.png)
 
+Un cop tinguem el apache hem d'instal·lar MariaDB.
+```sh
+sudo apt-get install mariadb-server
+```
+![](MariaDB.png)
+
 
 Ara el descomprimim al directori /var/www/html per fer-lo accessible via web.
 
