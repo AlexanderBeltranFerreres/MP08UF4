@@ -1,4 +1,4 @@
-# Crear Moodle 
+# INSTAL·LACIÓ MOODLE
 
 Ho hem de fer desde una màquina virtual d'ubutu server.
 Per poder treballar amb la màquina més còmode i per evitar problemes fem la seguent comanda aixi treballarem desde la terminal de la màquina real.
@@ -49,6 +49,7 @@ sudo unzip moodle-4.0.5.zip -d /var/www/html/
 
 
 Hem de canviar les propietat per a que pugui ser escrit pel servidor web.
+
 ```sh
 sudo chown www-data:www-data /var/www/html/moodle
 ```
@@ -57,17 +58,30 @@ Ara hem de crear un directori de fitxers per a que moodle pugui guardar els seus
 
 ![](mkdir.png)
 
-Per ùltim falta configurar la base de dades.
+Configurar base de dades per a Moodle
 
 Primer hem d'accedir a la base de dades amb:
+
 ```sh
 mysql -u root -p
 ```
+
 Un cop dintre hem de crear un usuari per al moodle
+
 ```sh 
 CREATE USER 'ubuntumoodle'@'192.168.203.227' IDENTIFIED BY 'ubuntumoodle';
 ```
 ![](moodleuser.png)
+
+Ara hem de crear una base de dades per al Moodle amb:
+
+```sh
+CREATE DATABASE moodle;
+```
+
+![](newDB.png)
+
+
 
 
 
