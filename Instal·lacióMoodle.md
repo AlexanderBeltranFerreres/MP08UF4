@@ -55,7 +55,19 @@ sudo chown www-data:www-data /var/www/html/moodle
 
 Ara hem de crear un directori de fitxers per a que moodle pugui guardar els seus fitxers, el nom que li he ficat al directori és moodle_data.
 
-![](..-..png)
+![](mkdir.png)
+
+Per ùltim falta configurar la base de dades.
+
+Primer hem d'accedir a la base de dades amb:
+```sh
+mysql -u root -p
+```
+Un cop dintre hem de crear un usuari per al moodle
+```sh 
+CREATE USER 'ubuntumoodle'@'192.168.203.227' IDENTIFIED BY 'ubuntumoodle';
+```
+![](moodleuser.png)
 
 
 
