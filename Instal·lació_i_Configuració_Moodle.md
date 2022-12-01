@@ -93,7 +93,7 @@ Finalment donem permisos amb:
 GRANT ALL PRIVILEGES ON moodle.* TO 'ubuntumoodle'@'localhost';
 FLUSH PRIVILEGES;
 ```
-![](flush.png)
+![Selecció_612](https://user-images.githubusercontent.com/114162412/205098325-2e9cbade-be1c-402f-b566-e685f93497d6.png)
 
 
 
