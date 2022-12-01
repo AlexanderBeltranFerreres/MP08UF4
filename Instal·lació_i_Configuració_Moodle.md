@@ -1,4 +1,8 @@
-# INSTAL·LACIÓ MOODLE
+# INSTAL·LACIÓ I CONFIGURACIÓ MOODLE
+
+
+
+### INSTAL·LACIÓ
 
 Ho hem de fer desde una màquina virtual d'ubutu server.
 Per poder treballar amb la màquina més còmode i per evitar problemes fem la seguent comanda aixi treballarem desde la terminal de la màquina real.
@@ -93,4 +97,8 @@ FLUSH PRIVILEGES;
 
 Si ho hem fet tot bé ens hauria de sortir així quan fiquem la ip/moodle al buscador.
 ![](comp.png)
+
+
+### CONFIGURACIÓ
+
 
