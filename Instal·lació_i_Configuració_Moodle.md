@@ -135,7 +135,6 @@ Un cop instal·lat fem un reload i ja ens anirà.
 
 
 
-
 Ara ens preguntara on volem guardar les dades, en aquest cas fiquem que es guarden a /home/moodle_data que l'hem creat antes.
 
 ![image](https://user-images.githubusercontent.com/114162412/205081333-fd8d70aa-d063-4879-b5bf-2bfde7b4a0d7.png)
@@ -152,13 +151,63 @@ En aquesta pàgina hem de ficar els caps que ens demanen.
 
 ![image](https://user-images.githubusercontent.com/114162412/205085162-38af7402-8d58-4d58-8a1e-c4f93b1b12d6.png)
 
-En sortira un error 
 
-![image](https://user-images.githubusercontent.com/114162412/205087566-b04f43ec-8cc7-4611-aa47-f9cfa273b15f.png)
-
+Ara ens sortirà un error dient-mos que ens falta l'extensió mbstring de PHP.
 
 
+![Selecció_613](https://user-images.githubusercontent.com/114162412/205100275-c5a0d59f-4e03-4948-85b1-fc7fcbca6ec2.png)
 
 
+Anem a la terminal i buquem el que ens hem d'instal·lar.
+
+![image](https://user-images.githubusercontent.com/114162412/205100209-45dc3fce-b482-43e8-96c7-edeedf2937d9.png)
+
+
+
+busquem el paquet que ens volem instal·lar segons la versió de php i l'intal·lem.
+```sh
+sudo apt search php | grep mbstring
+```
+
+```sh
+sudo apt install php7.3-mbstring
+```
+
+![image](https://user-images.githubusercontent.com/114162412/205100754-38c546f6-4d99-4f19-a298-7265d79820ef.png)
+
+Fem un reload i ja ens hauia de sortir.
+```sh
+sudo service apache2 reload
+```
+
+![Selecció_616](https://user-images.githubusercontent.com/114162412/205102005-ec0c5605-6edd-4672-9b44-4667fb38930f.png)
+
+Fiquem que acceptem els "terminos y condiciones" i ens farà unes comprovacións automàtiques. 
+en aquest cas ens ha marcat revisar dos extencions que no tenim instal·lades aixì que les instal·lem les dos i fem un reload del servei.
+
+![image](https://user-images.githubusercontent.com/114162412/205102566-ee09e438-9abc-4fc4-ba7d-7b411e6375a8.png)
+
+```sh
+sudo apt search php | grep xmlrpc
+```
+```sh
+sudo apt install php7.3-xmlrpc
+```
+
+![Selecció_618](https://user-images.githubusercontent.com/114162412/205107094-8ff12067-bd4c-43c0-8afa-25f36473b484.png)
+
+
+```sh
+sudo apt search php | grep soap
+```
+```sh
+sudo apt install php7.3-soap
+```
+
+![image](https://user-images.githubusercontent.com/114162412/205107398-cdc49a93-4030-422a-81bc-9f1425a6e18e.png)
+
+Ara fem un reload i ja estaria.
+
+![image](https://user-images.githubusercontent.com/114162412/205112625-d17d086b-b02e-4ebb-8512-e3ad208b4585.png)
 
 
