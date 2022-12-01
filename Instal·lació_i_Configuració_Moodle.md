@@ -73,9 +73,10 @@ mysql -u root -p
 Un cop dintre hem de crear un usuari per al moodle
 
 ```sh 
-CREATE USER 'ubuntumoodle'@'192.168.203.227' IDENTIFIED BY 'ubuntumoodle';
+CREATE USER 'ubuntumoodle'@'localhost' IDENTIFIED BY 'ubuntumoodle';
 ```
-![](moodleuser.png)
+![image](https://user-images.githubusercontent.com/114162412/205097392-24de7cd9-3466-46f6-b968-2e994df95f7f.png)
+
 
 Ara hem de crear una base de dades per al Moodle amb:
 
@@ -83,12 +84,13 @@ Ara hem de crear una base de dades per al Moodle amb:
 CREATE DATABASE moodle;
 ```
 
-![](newDB.png)
+![image](https://user-images.githubusercontent.com/114162412/205097073-36f80b93-65d3-44b9-b575-b107055df4ea.png)
+
 
 
 Finalment donem permisos amb:
 ```sh
-GRANT ALL PRIVILEGES ON moodle.* TO 'ubuntumoodle'@'192.168.203.227';
+GRANT ALL PRIVILEGES ON moodle.* TO 'ubuntumoodle'@'localhost';
 FLUSH PRIVILEGES;
 ```
 ![](flush.png)
