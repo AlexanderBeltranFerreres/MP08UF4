@@ -118,13 +118,16 @@ Ens mostra tots els paquets que estàn disponibles.
 
 ![image](https://user-images.githubusercontent.com/114162412/205078037-93539a46-ab5a-4180-81b3-79ed1cfa2847.png)
 
-Ara intal·lem el php-zip 
+Ara instal·lem el php-zip 
 
 ![image](https://user-images.githubusercontent.com/114162412/205079065-1056f4dc-ce2f-4144-aa56-9e75edca2222.png)
 
 Un cop instal·lat fem un reload i ja ens anirà.
 
+
 ![image](https://user-images.githubusercontent.com/114162412/205079524-9ef096bc-c12a-4a99-a240-b4f3a8ae05b3.png)
+
+
 
 ![image](https://user-images.githubusercontent.com/114162412/205079660-10410ca1-14db-4b78-8595-791af0008ccf.png)
 
