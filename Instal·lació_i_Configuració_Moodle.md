@@ -134,4 +134,19 @@ Un cop instal·lat fem un reload i ja ens anirà.
 
 
 
+Ara ens preguntara on volem guardar les dades, en aquest cas fiquem que es guarden a /home/moodle_data que l'hem creat antes.
+
+![image](https://user-images.githubusercontent.com/114162412/205081333-fd8d70aa-d063-4879-b5bf-2bfde7b4a0d7.png)
+
+
+Ens preguntá quin controlador de base de dades utilitzem, en aquest cas es Maria DB però si no estem segurs podem saber-ho ficant la seguent comanda a la terminal:
+```sh
+sudo mysql -v
+```
+
+![image](https://user-images.githubusercontent.com/114162412/205082231-5a282f4d-8664-4771-a3e4-4146776ae139.png)
+
+
+
+
 
