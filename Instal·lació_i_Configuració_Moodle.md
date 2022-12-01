@@ -146,6 +146,16 @@ sudo mysql -v
 
 ![image](https://user-images.githubusercontent.com/114162412/205082231-5a282f4d-8664-4771-a3e4-4146776ae139.png)
 
+En aquesta pàgina hem de ficar els caps que ens demanen.
+
+![image](https://user-images.githubusercontent.com/114162412/205085162-38af7402-8d58-4d58-8a1e-c4f93b1b12d6.png)
+
+En sortira un error 
+
+![image](https://user-images.githubusercontent.com/114162412/205087566-b04f43ec-8cc7-4611-aa47-f9cfa273b15f.png)
+
+
+
 
 
 
