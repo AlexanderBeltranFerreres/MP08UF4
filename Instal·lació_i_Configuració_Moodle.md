@@ -102,9 +102,11 @@ Si ho hem fet tot bé ens hauria de sortir així quan fiquem la ip/moodle al bus
 ### CONFIGURACIÓ
 
 Un cop dintre el primer que hem de fer és seleccionar d'idioma d'intal·lació.
+
 ![image](https://user-images.githubusercontent.com/114162412/205076721-c77717b7-4834-4579-8aba-ed7863666ed5.png)
 
 Ens dirá que falla el modul zip del PHP.
+
 ![image](https://user-images.githubusercontent.com/114162412/205077052-b6ddc022-075c-4181-aa9d-4c417685c2e2.png)
 
 Entrem a la terminal i dinte de la carpeta del moodle busquem al PHP el paquet zip amb la comanda:
@@ -113,13 +115,17 @@ sudo apt search php | grep zip
 ```
 
 Ens mostra tots els paquets que estàn disponibles.
+
 ![image](https://user-images.githubusercontent.com/114162412/205078037-93539a46-ab5a-4180-81b3-79ed1cfa2847.png)
 
 Ara intal·lem el php-zip 
+
 ![image](https://user-images.githubusercontent.com/114162412/205079065-1056f4dc-ce2f-4144-aa56-9e75edca2222.png)
 
 Un cop instal·lat fem un reload i ja ens anirà.
+
 ![image](https://user-images.githubusercontent.com/114162412/205079524-9ef096bc-c12a-4a99-a240-b4f3a8ae05b3.png)
+
 ![image](https://user-images.githubusercontent.com/114162412/205079660-10410ca1-14db-4b78-8595-791af0008ccf.png)
 
 
