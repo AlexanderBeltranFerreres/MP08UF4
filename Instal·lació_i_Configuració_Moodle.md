@@ -222,5 +222,27 @@ Ho emplenem i fiquem update profile.
 
 ### CREACIÓ DE CURSOS
 
+Pimer hem de crear categoies i subcategories, per fer això hem de modificar la categorìa que ve per defecte i ficar el nom que volem.
+
+![image](https://user-images.githubusercontent.com/114162412/207895820-eb416e2a-8e74-4dc4-9bc9-79aaffa16f8e.png)
+
+Un cop tenim la categoria que tenim podem crear subcategories dintre s'aquesta i dintre de les subgategories també podem crear subcategories.
+
+![image](https://user-images.githubusercontent.com/114162412/207896108-b8a54fea-725a-4715-a826-4f47a8e08944.png)
+
+La pantalla que ens sortirà és igual que la de modificar la categorìa.
+Fem tantes subcategorìes com vulguem, en aquest cas ha quedat aixì.
+
+
+![Selecció_769](https://user-images.githubusercontent.com/114162412/207899326-33b39249-ca4b-4514-8514-dce638028c50.png)
+
+![image](https://user-images.githubusercontent.com/114162412/207899415-344df872-d5e0-43f9-8887-857aecfcebb8.png)
+
+Un cop creades les subcategorìes ja podem crear els cursos que volem, en aquest cas he creat 3 cursos dintre de la subcategorìa  CFGM SMX/2n curs/ Grup B i tres cursos dintre de CFGM SMX/2n curs
+
+Per crear els cursos simplement hem de entrar dintre de la subcategoria i fem clic a add new course, ens sortirà aquesta pantalla on fiquem les dades ue volem.
+![image](https://user-images.githubusercontent.com/114162412/207901766-374a3a86-6c1c-45fb-abdb-6efb0109fb4a.png)
+
+Fem això tantes vegades com necessitem dintre de les subcategories que vulguem.
 
 
