@@ -238,11 +238,13 @@ Fem tantes subcategorìes com vulguem, en aquest cas ha quedat aixì.
 
 ![image](https://user-images.githubusercontent.com/114162412/207899415-344df872-d5e0-43f9-8887-857aecfcebb8.png)
 
-Un cop creades les subcategorìes ja podem crear els cursos que volem, en aquest cas he creat 3 cursos dintre de la subcategorìa  CFGM SMX/2n curs/ Grup B i tres cursos dintre de CFGM SMX/2n curs
-
+Un cop creades les subcategorìes ja podem crear els cursos que volem, en aquest cas he creat 3 cursos dintre de CFGM SMX/2n curs i 4 cursos dintre de la subcategorìa  CFGM SMX/2n curs/ Grup B.
 Per crear els cursos simplement hem de entrar dintre de la subcategoria i fem clic a add new course, ens sortirà aquesta pantalla on fiquem les dades ue volem.
 ![image](https://user-images.githubusercontent.com/114162412/207901766-374a3a86-6c1c-45fb-abdb-6efb0109fb4a.png)
 
 Fem això tantes vegades com necessitem dintre de les subcategories que vulguem.
+Aqui és poden veure els cursos creats dintre de les categories pertinents.
+
+![Selecció_773](https://user-images.githubusercontent.com/114162412/207906873-86b061cc-1d68-49cc-8c37-bede82887cc3.png)
 
 
