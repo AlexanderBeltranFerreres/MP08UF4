@@ -210,4 +210,17 @@ Ara fem un reload i ja estaria.
 
 ![image](https://user-images.githubusercontent.com/114162412/205112625-d17d086b-b02e-4ebb-8512-e3ad208b4585.png)
 
+Quan hagui fet totes les comprovacións necessàries ens sortirà aquesta pantalla on hem de posar l'informació general del administrador.
+
+![image](https://user-images.githubusercontent.com/114162412/207886892-4342db86-dfa6-40d0-b7e8-43f9e491ec59.png)
+
+Ho emplenem i fiquem update profile.
+
+![image](https://user-images.githubusercontent.com/114162412/207887657-d2e80c98-f7b0-4020-af8d-021057fe3b2b.png)
+
+![image](https://user-images.githubusercontent.com/114162412/207889128-64135954-a50b-48f0-bb96-89a36a5fb709.png)
+
+### CREACIÓ DE CURSOS
+
+
 
