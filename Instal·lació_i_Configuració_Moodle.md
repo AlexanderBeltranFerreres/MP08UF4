@@ -251,10 +251,14 @@ Aqui és poden veure els cursos creats dintre de les categories pertinents.
 ### TIPUS D'USUARIS
 
 1.Quins tipus d'usuaris (rols diferents) existeixen a Moodle?
+
   Ordinaris, professors, creadors, administradors.
+  
 2.Quins rols poden assignar cada tipus d'usuaris?
+
   
 3.Crea tres usuaris:
+
   ·Un Professor anomenat Cognom_1_profe.
   ·Un Professor anomenat Cognom_2_profe.
   ·Un professor No editor anomenat Cognom_3_profe.
