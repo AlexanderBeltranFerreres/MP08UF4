@@ -299,5 +299,6 @@ Ens descarreguem el document de exemple i canviem el seu contingut per les dades
 ![Selecció_952](https://user-images.githubusercontent.com/114162412/212111336-26ca08f4-fab0-4fec-adb9-a4c01dab65cf.png)
 
 
+![image](https://user-images.githubusercontent.com/114162412/212113589-39616184-799d-4ea5-8798-0cbd68a5766f.png)
 
 
