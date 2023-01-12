@@ -290,5 +290,14 @@ Aqui és poden veure els cursos creats dintre de les categories pertinents.
 ![image](https://user-images.githubusercontent.com/114162412/212109627-375b84be-cf38-4541-9627-e5bf20ffd226.png)
 
 
+5.Afegeix un fitxer d'usuaris des de fitxer (4 companys/es de classe) simultàniament carregant un fitxer de dades, com es veu a la imatge.
+
+
+Ens descarreguem el document de exemple i canviem el seu contingut per les dades correctes, despres el penjem.
+
+
+![Selecció_952](https://user-images.githubusercontent.com/114162412/212111336-26ca08f4-fab0-4fec-adb9-a4c01dab65cf.png)
+
+
 
 
