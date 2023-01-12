@@ -260,6 +260,8 @@ Aqui és poden veure els cursos creats dintre de les categories pertinents.
 3.Crea tres usuaris:
 
   ·Un Professor anomenat Cognom_1_profe.
+  
   ·Un Professor anomenat Cognom_2_profe.
+  
   ·Un professor No editor anomenat Cognom_3_profe.
 
