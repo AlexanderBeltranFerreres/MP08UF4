@@ -272,6 +272,23 @@ Aqui és poden veure els cursos creats dintre de les categories pertinents.
   
   
 
- ![image](https://user-images.githubusercontent.com/114162412/212105579-124766c1-ffa2-4377-98da-b43a69e2dac7.png)
+![image](https://user-images.githubusercontent.com/114162412/212105579-124766c1-ffa2-4377-98da-b43a69e2dac7.png)
+ 
 
 ![image](https://user-images.githubusercontent.com/114162412/212107241-80594b03-f18b-43ae-8ad9-bfcbbd8e99f6.png)
+
+
+![image](https://user-images.githubusercontent.com/114162412/212108056-1e748c01-90c2-4142-a0e0-4e888d69457b.png)
+
+
+![image](https://user-images.githubusercontent.com/114162412/212108506-0f3414ed-6df4-44b0-83ea-8fef17bcaea4.png)
+
+
+![image](https://user-images.githubusercontent.com/114162412/212109627-375b84be-cf38-4541-9627-e5bf20ffd226.png)
+
+
+![image](https://user-images.githubusercontent.com/114162412/212109444-a38c0b0a-ba0a-45ca-992e-7d38924930ab.png)
+
+
+
+
