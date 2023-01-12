@@ -272,3 +272,6 @@ Aqui és poden veure els cursos creats dintre de les categories pertinents.
   
   
 
+ ![image](https://user-images.githubusercontent.com/114162412/212105579-124766c1-ffa2-4377-98da-b43a69e2dac7.png)
+
+![image](https://user-images.githubusercontent.com/114162412/212107241-80594b03-f18b-43ae-8ad9-bfcbbd8e99f6.png)
