@@ -304,11 +304,23 @@ Ens descarreguem el document de exemple i canviem el seu contingut per les dades
 
 ### PERSONALITZAR PERFIL 
 
+
+
+
+
+Ficar foto de perfil: 
+
+
+
 ![Selecció_999](https://user-images.githubusercontent.com/114162412/213235159-b3eff583-edf0-4f4e-9382-09b1b213e8fe.png)
 
 
 
 ![Selecció_1000](https://user-images.githubusercontent.com/114162412/213235230-348dbd0f-e133-4587-b50f-952d7570c5fa.png)
+
+
+Canviar contrassenya:
+
 
 
 ![Selecció_1001](https://user-images.githubusercontent.com/114162412/213235841-1ba5ce8f-3eb4-4a4a-b86b-55ca62d73af9.png)
@@ -318,12 +330,22 @@ Ens descarreguem el document de exemple i canviem el seu contingut per les dades
 
 
 
+Canviar idioma:
+
+
+
 ![Selecció_1003](https://user-images.githubusercontent.com/114162412/213236571-64a81889-6dc3-4bdf-ac25-500f23fd9384.png)
 
 
 
+Ocultar correu: 
+
+
 ![Selecció_1004](https://user-images.githubusercontent.com/114162412/213237660-ce39aa27-a41a-4f61-abde-43169125ec8e.png)
 
+
+
+Modificar l'agenda:
 
 
 ![Selecció_1005](https://user-images.githubusercontent.com/114162412/213237916-a28dc649-71e4-4c5e-9d4e-2ca242d00e4b.png)
