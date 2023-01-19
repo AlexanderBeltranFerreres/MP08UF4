@@ -358,5 +358,45 @@ Fes que només els contactes de l'usuari puguin enviar-li missatges.
 
 ### CURSOS
 
+- Crea un Curs nou anomenat "Programació amb Python" dins de la categoria 2n curs -> DAM.
 
+![image](https://user-images.githubusercontent.com/114162412/213469862-6c8c8427-c94d-4d98-bba6-39ce9772e3e3.png)
+
+
+- Inscriu a tots els alumnes al curs.
+
+![Selecció_1008](https://user-images.githubusercontent.com/114162412/213470327-288c73ed-a254-4b68-8edd-773774364165.png)
+
+
+
+![Selecció_1009](https://user-images.githubusercontent.com/114162412/213470351-b85cde38-8a67-4680-8d49-98e9ce5d4946.png)
+
+
+
+![Selecció_1010](https://user-images.githubusercontent.com/114162412/213470393-c53b126d-9a00-4f2b-8f08-7dd48bb76c63.png)
+
+
+- Inscriu a tots els professors al curs.
+
+![image](https://user-images.githubusercontent.com/114162412/213470622-98ac11b6-dd00-4de1-bc5b-b62a8e18867c.png)
+
+
+- Crea un fòrum general de dubtes (el d'anuncis no serveix).
+
+
+![image](https://user-images.githubusercontent.com/114162412/213471711-543efc90-9d5f-4788-8631-1cfbe3ca2716.png)
+
+
+- Fes que dos estudiants fassin consultes al fòrum.
+- Contesta les preguntes amb un perfil de professor.
+- Crea un tema anomenat "Fonaments de Python".
+- Oculta la resta de temes del curs.
+- Dins del tema crea una tasca anomenada prova inicial amb 10 preguntes molt bàsiques sobre Python. Pots trobar info [aqui](https://www.w3schools.com/python/).
+- Fes que els alumnes contestin la tasca (mínim 3).
+- Qualifica la tasca de l'alumnat.
+- Mostra les qualificacions de l'alumnat.
+- Com a perfil d'alumne mostra la teva qualificació.
+- Crea una activitat de consulta amb una pregunta sobre què costa més a l'alumnat sobre el tema del curs amb 4 opcions.
+- Com a alumne/a contesta la consulta.
+- Com a professor mostra les contestacions de la consulta.
 
