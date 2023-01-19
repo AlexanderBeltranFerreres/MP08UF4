@@ -388,10 +388,47 @@ Fes que només els contactes de l'usuari puguin enviar-li missatges.
 
 
 - Fes que dos estudiants fassin consultes al fòrum.
+
+
+![Selecció_1014](https://user-images.githubusercontent.com/114162412/213478120-fcdf129e-dbe2-4039-9c52-c5c8a6f66482.png)
+
+
+![Selecció_1015](https://user-images.githubusercontent.com/114162412/213478252-8b8fa332-645d-461d-b3f5-03e02e1fb849.png)
+
+
+
 - Contesta les preguntes amb un perfil de professor.
+
+![Selecció_1016](https://user-images.githubusercontent.com/114162412/213478327-4bdc65f5-34bc-43f6-ab4f-526cefc204a8.png)
+
+
+![Selecció_1017](https://user-images.githubusercontent.com/114162412/213478398-28dd6a0a-97e3-4f64-bed3-f89d057e1892.png)
+
+
+![Selecció_1018](https://user-images.githubusercontent.com/114162412/213478457-c9346358-d453-42e0-a60b-77d983bb7d7f.png)
+
+
 - Crea un tema anomenat "Fonaments de Python".
+
+![image](https://user-images.githubusercontent.com/114162412/213480386-6d7c6483-4d3e-4c89-b6fc-fd1bbf57579f.png)
+
+
 - Oculta la resta de temes del curs.
+
+![Selecció_1020](https://user-images.githubusercontent.com/114162412/213480747-d5623bf4-2843-4c68-a63e-a277f1417830.png)
+
+
+![Selecció_1021](https://user-images.githubusercontent.com/114162412/213480795-cad9f348-0407-4b13-bb42-251fa48867a4.png)
+
+
 - Dins del tema crea una tasca anomenada prova inicial amb 10 preguntes molt bàsiques sobre Python. Pots trobar info [aqui](https://www.w3schools.com/python/).
+
+![Selecció_1022](https://user-images.githubusercontent.com/114162412/213482075-e87438dd-2fc2-4bbf-be60-257726bd581c.png)
+
+
+![Selecció_1023](https://user-images.githubusercontent.com/114162412/213482099-94f4d8ff-7a02-4870-90d8-ee51983e2778.png)
+
+
 - Fes que els alumnes contestin la tasca (mínim 3).
 - Qualifica la tasca de l'alumnat.
 - Mostra les qualificacions de l'alumnat.
