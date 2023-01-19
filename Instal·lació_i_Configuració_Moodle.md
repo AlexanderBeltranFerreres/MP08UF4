@@ -429,11 +429,31 @@ Fes que només els contactes de l'usuari puguin enviar-li missatges.
 ![Selecció_1023](https://user-images.githubusercontent.com/114162412/213482099-94f4d8ff-7a02-4870-90d8-ee51983e2778.png)
 
 
+![Selecció_1024](https://user-images.githubusercontent.com/114162412/213485668-2dcaa766-c2c1-4d58-9aa1-dd8fd236aad8.png)
+
+
+![Selecció_1025](https://user-images.githubusercontent.com/114162412/213485688-8dd75d2b-6f25-4281-a697-aee1af779ada.png)
+
+
+
 - Fes que els alumnes contestin la tasca (mínim 3).
+
+![Selecció_1026](https://user-images.githubusercontent.com/114162412/213489190-e973a7dd-82a7-4115-a221-adf96c4f590b.png)
+
+
 - Qualifica la tasca de l'alumnat.
 - Mostra les qualificacions de l'alumnat.
+
+![image](https://user-images.githubusercontent.com/114162412/213489419-a2456f25-3610-4678-bbfa-61938bcba641.png)
+
 - Com a perfil d'alumne mostra la teva qualificació.
+
+![image](https://user-images.githubusercontent.com/114162412/213489612-f3ad0942-f3d3-416c-a40d-aa9be8be275c.png)
+
 - Crea una activitat de consulta amb una pregunta sobre què costa més a l'alumnat sobre el tema del curs amb 4 opcions.
+
+
+
 - Com a alumne/a contesta la consulta.
 - Com a professor mostra les contestacions de la consulta.
 
