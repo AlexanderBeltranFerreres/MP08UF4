@@ -452,8 +452,65 @@ Fes que només els contactes de l'usuari puguin enviar-li missatges.
 
 - Crea una activitat de consulta amb una pregunta sobre què costa més a l'alumnat sobre el tema del curs amb 4 opcions.
 
+![Selecció_1029](https://user-images.githubusercontent.com/114162412/213723399-f4d7b83f-beb6-44ce-86f1-bc86b0001e79.png)
+
+
+![Selecció_1030](https://user-images.githubusercontent.com/114162412/213723454-9427033c-55cb-42ea-a0fb-da360a0bc241.png)
+
+
+![Selecció_1031](https://user-images.githubusercontent.com/114162412/213723530-3d043cef-2197-4e6b-ba42-f911307a53f7.png)
 
 
 - Com a alumne/a contesta la consulta.
+
+![Selecció_1032](https://user-images.githubusercontent.com/114162412/213724266-70c1a01a-e1e7-46a6-8a75-2955c66d44b6.png)
+
+
+![Selecció_1033](https://user-images.githubusercontent.com/114162412/213724318-87eea011-1a85-4476-9292-04d44d0ddcea.png)
+
+
 - Com a professor mostra les contestacions de la consulta.
 
+![image](https://user-images.githubusercontent.com/114162412/213724978-1a2a9a94-55e1-403e-80b8-8c1441012ec6.png)
+
+# Seguretat del lloc:
+
+![image](https://user-images.githubusercontent.com/110727546/207085138-c3cbcb81-edee-45a1-8b11-daf20093e56d.png)
+
+
+- Bloca una adreça IP d'un company per a que no pugui accedir al moodle i mostra-ho. VIGILA: Fica una adreça IP sencera si no bloquejaràs tota la xarxa, si us passa podeu arreglar-ho [així](https://moodle.org/mod/forum/discuss.php?d=323745).
+
+![image](https://user-images.githubusercontent.com/114162412/213733364-5eaa7565-483d-4ac6-805d-d242e33da4e8.png)
+
+- Canvia els paràmetres de les contrasenyes d'usuari per a que les contrasenyes:
+  - Tinguin mínim 10 caràcters.
+  - Tinguin 2 dígits.
+  - Tinguin 3 maiúscules.
+
+![image](https://user-images.githubusercontent.com/114162412/213739590-e4ff6f86-2da0-481f-a508-2b04658910f0.png)
+
+
+# Plugins:
+
+- Instal·la 2 [plugins](https://moodle.org/plugins/) de Moodle i explica què fan.
+
+![image](https://user-images.githubusercontent.com/114162412/213741450-eac09ba3-2322-4e3e-8976-b93c0c03fa32.png)
+
+![image](https://user-images.githubusercontent.com/114162412/213745773-6c1b64df-2c75-4ad1-8f75-98b9d813fa9d.png)
+
+
+# Personalització del tauler d'usuaris:
+
+![image](https://user-images.githubusercontent.com/110727546/207088651-6131a2b1-20c7-4a9f-b50a-317295ce70f1.png)
+
+Canvia el tauler d'usuaris.
+
+- Afegeix a dalt de tot "Cursos visitats recentment".
+- Afegeix a baix de tot "Usuaris en línia".
+
+# Canvia el tema del Moodle:
+
+Vigila que sigui un tema suportat per la teva versió de Moodle:
+
+[Pàgina amb temes.](https://moodle.org/plugins/browse.php?list=category&id=3)
+[Com canviar el tema.](https://docs.moodle.org/24/en/Installing_a_new_theme)
