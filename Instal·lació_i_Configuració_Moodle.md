@@ -508,6 +508,16 @@ Canvia el tauler d'usuaris.
 - Afegeix a dalt de tot "Cursos visitats recentment".
 - Afegeix a baix de tot "Usuaris en línia".
 
+![Selecció_1042](https://user-images.githubusercontent.com/114162412/215115623-bc91a103-7dd4-4dcf-b96c-36bbd28550ef.png)
+
+
+![Selecció_1043](https://user-images.githubusercontent.com/114162412/215115724-55d23dce-2ff9-4529-8a0f-ce2ef1194480.png)
+
+
+![Selecció_1044](https://user-images.githubusercontent.com/114162412/215115781-d3aaa953-8475-4982-9288-9bffc4a1ae61.png)
+
+
+
 # Canvia el tema del Moodle:
 
 Vigila que sigui un tema suportat per la teva versió de Moodle:
